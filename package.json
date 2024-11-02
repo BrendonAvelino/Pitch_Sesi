@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "npm install expo && expo export -p web"
+  },
+  "devDependencies": {
+    "expo": "^51.0.38"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
